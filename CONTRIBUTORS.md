@@ -869,3 +869,8 @@
  * GitHub: [eeshwarantharan](https://github.com/eeshwarantharan)
  * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/tharaneeshwaran/)
 
+## Name: Raagul S
+ * Place: India
+ * Job: Student
+ * GitHub: [IM-TECHNO](https://github.com/TECHNO)
+ * LinkedIn: [Tharaneeshwaran V U](https://www.linkedin.com/in/raaguls)
